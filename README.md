@@ -1,45 +1,33 @@
-# 👋 Hello, I'm Alexander
+<div align="center">
 
-💻 **Software Developer | IT & Economics Enthusiast**
+<img src="./assets/header.svg" alt="Vyron-Watcher, Python Backend, FinTech" width="100%">
 
-I am a passionate software developer focused on creating modern digital solutions that combine **technology, data, and economic thinking**.
+<img src="./assets/stack/title.svg" alt="Tech stack" width="100%">
 
-My goal is to build efficient, scalable, and user-friendly applications that solve real-world problems and bring value to businesses and people.
+</div>
 
-## 🚀 About Me
+<p align="center">
+<a href="https://docs.python.org/3/"><img src="./assets/stack/python.svg" alt="Python: learning now" width="24%"></a>
+<a href="https://fastapi.tiangolo.com/"><img src="./assets/stack/fastapi.svg" alt="FastAPI: planned" width="24%"></a>
+<a href="https://www.postgresql.org/docs/"><img src="./assets/stack/sql.svg" alt="SQL: planned" width="24%"></a>
+<a href="https://docs.pytest.org/"><img src="./assets/stack/pytest.svg" alt="pytest: learning now" width="24%"></a>
+<a href="https://docs.docker.com/"><img src="./assets/stack/docker.svg" alt="Docker: planned" width="24%"></a>
+<a href="https://docs.github.com/actions"><img src="./assets/stack/github-actions.svg" alt="GitHub Actions: planned" width="24%"></a>
+<a href="https://kafka.apache.org/documentation/"><img src="./assets/stack/kafka.svg" alt="Kafka: planned" width="24%"></a>
+<a href="https://redis.io/docs/"><img src="./assets/stack/redis.svg" alt="Redis: planned" width="24%"></a>
+<a href="https://opentelemetry.io/docs/"><img src="./assets/stack/opentelemetry.svg" alt="OpenTelemetry: planned" width="24%"></a>
+<a href="https://kubernetes.io/docs/"><img src="./assets/stack/kubernetes.svg" alt="Kubernetes: planned" width="24%"></a>
+<a href="https://grafana.com/docs/"><img src="./assets/stack/grafana.svg" alt="Grafana: planned" width="24%"></a>
+<a href="https://scikit-learn.org/stable/"><img src="./assets/stack/scikit-learn.svg" alt="scikit-learn: planned" width="24%"></a>
+</p>
 
-- 💡 Interested in software engineering, artificial intelligence, and financial technologies
-- 📊 Combining programming skills with economics and data analysis
-- 🌐 Creating digital solutions, automation systems, and innovative applications
-- 📚 Constantly learning new technologies and improving my development skills
+## About
+CS student, Applied Informatics in Economics. Learning Python and backend development, building projects for finance: payments, accounting, scoring.
 
-## 🛠 Technologies
+<img src="./assets/snake.svg" alt="A snake writes FINTECH" width="100%">
 
-- **Programming Languages:** Python, JavaScript, Java
-- **Frontend Development:** HTML, CSS, React
-- **Backend Development:** Node.js, REST API
-- **Databases:** SQL, PostgreSQL
-- **Specializations:** Artificial Intelligence, Data Analysis, FinTech
-
-## 📂 Featured Projects
-
-My repositories include projects related to:
-
-- Software engineering
-- Web applications
-- Automation systems
-- Data processing
-- Economic and financial technologies
-
-## 📈 Currently Learning
-
-- Advanced software architecture
-- Machine learning and AI technologies
-- Cloud development
-- Modern software engineering practices
-
-## 🎯 My Mission
-
-To become a professional software engineer and create technologies that combine programming, innovation, and economic impact.
-
-⭐ **Building knowledge. Creating solutions. Growing every day.**
+## Contact
+<p align="center">
+<a href="https://t.me/KreBet0chka"><img src="./assets/contact-telegram.svg" alt="Telegram @KreBet0chka" width="23%"></a>
+<a href="mailto:alexsandrprogrammers@gmail.com"><img src="./assets/contact-email.svg" alt="Email alexsandrprogrammers@gmail.com" width="36%"></a>
+</p>
